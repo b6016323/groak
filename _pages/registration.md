@@ -9,4 +9,6 @@ permalink: >
 published: true
 post_date: 2017-11-10 10:43:43
 ---
-[user_registration_form id="35"]
+<a href="http://homepages.shu.ac.uk/~b6016323/groak/user-sign-up/">I'm a Groaker</a>
+
+<a href="http://homepages.shu.ac.uk/~b6016323/groak/artisan-sign-up/">I'm an Artisan</a>
