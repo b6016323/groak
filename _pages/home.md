@@ -13,6 +13,6 @@ post_date: 2017-11-06 15:49:08
 
 <a href="http://homepages.shu.ac.uk/~b6016323/groak/registration/">Register</a>
 
-Log In
+<a href="http://homepages.shu.ac.uk/~b6016323/groak/login/">Log In</a>
 
 View Restaurants
