@@ -1,6 +1,6 @@
 ---
 ID: 98
-post_title: User Profile
+post_title: ""
 author: Graham Catterall
 post_excerpt: ""
 layout: page
