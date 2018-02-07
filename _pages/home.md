@@ -10,8 +10,10 @@ published: true
 post_date: 2017-11-06 15:49:08
 ---
 <hr />
+<p style="text-align: center;"><img class="size-full wp-image-125 aligncenter" src="http://homepages.shu.ac.uk/~b6016323/groak/wp-content/uploads/2018/02/Groak_Master_Written_Black_Resized.png" alt="" width="787" height="154" /></p>
 
-[caption id="attachment_123" align="alignnone" width="1000"]<img class="size-full wp-image-123" src="http://homepages.shu.ac.uk/~b6016323/groak/wp-content/uploads/2018/02/Groak_Master_Written_Black.png" alt="Groak Logo" width="1000" height="1000" /> Groak Logo[/caption]
-<p style="text-align: center;"><a href="http://homepages.shu.ac.uk/~b6016323/groak/registration/">Register</a></p>
-<p style="text-align: center;"><a href="http://homepages.shu.ac.uk/~b6016323/groak/login/">Log In</a></p>
-<p style="text-align: center;">View Restaurants</p>
+<h2 style="text-align: center;"><span style="font-family: ProximNova;">Eat Your Way Around The World</span></h2>
+&nbsp;
+<p style="text-align: center;"><span style="font-family: ProximNova;"><a href="http://homepages.shu.ac.uk/~b6016323/groak/registration/">Register</a></span></p>
+<p style="text-align: center;"><span style="font-family: ProximNova;"><a href="http://homepages.shu.ac.uk/~b6016323/groak/login/">Log In</a></span></p>
+<p style="text-align: center;"><span style="font-family: ProximNova;">View Restaurants</span></p>
