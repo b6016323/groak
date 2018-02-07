@@ -12,4 +12,4 @@ post_date: 2018-02-02 10:40:06
 <p style="text-align: center;">[user_profile]</p>
 [wordpress_file_upload]
 
-[wordpress_file_upload_browser]
+&nbsp;
