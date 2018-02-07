@@ -9,8 +9,8 @@ permalink: >
 published: true
 post_date: 2018-01-29 16:11:24
 ---
-<p style="text-align: center;">My Location</p>
-<p style="text-align: center;">Events</p>
-<p style="text-align: center;">Favourites</p>
-<p style="text-align: center;">Wish list</p>
-<p style="text-align: center;">My Reviews</p>
+<p style="text-align: center;"><span style="font-family: ProximNova;">My Location</span></p>
+<p style="text-align: center;"><span style="font-family: ProximNova;">Events</span></p>
+<p style="text-align: center;"><span style="font-family: ProximNova;">Favourites</span></p>
+<p style="text-align: center;"><span style="font-family: ProximNova;">Wish list</span></p>
+<p style="text-align: center;"><span style="font-family: ProximNova;">My Reviews</span></p>
