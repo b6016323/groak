@@ -10,6 +10,6 @@ published: true
 post_date: 2018-02-02 10:40:06
 ---
 <p style="text-align: center;">[user_profile]</p>
-[wordpress_file_upload uploadpath="uploads/%userid%" uploadrole="administrator,artisan" uploadpatterns="*.pdf"]
+[wordpress_file_upload uploadpath="uploads" uploadrole="administrator,artisan" uploadpatterns="*.pdf"]
 
 &nbsp;
